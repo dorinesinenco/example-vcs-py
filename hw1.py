@@ -1,2 +1,2 @@
 message = "Hi!"
-print(message)
+print("Result",message)
